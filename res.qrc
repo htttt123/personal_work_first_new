@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/1.png</file>
+        <file>image/2.png</file>
+        <file>image/3a.png</file>
+        <file>image/4.png</file>
+        <file>image/5.png</file>
+        <file>image/6.png</file>
+        <file>image/7.png</file>
+        <file>image/8.png</file>
+        <file>image/9.png</file>
+        <file>image/big_background.png</file>
+        <file>image/CE.png</file>
+        <file>image/del.png</file>
+        <file>image/1yuan.png</file>
+        <file>image/2yuan.png</file>
+        <file>image/duishu.png</file>
+        <file>image/fan.png</file>
+        <file>image/zhishu.png</file>
+        <file>image/background_hanshu.png</file>
+        <file>image/1yuan2ci.png</file>
+        <file>image/11.png</file>
+        <file>image/12.png</file>
+        <file>image/13.png</file>
+        <file>image/14.png</file>
+        <file>image/15.png</file>
+        <file>image/16.png</file>
+        <file>image/17.png</file>
+        <file>image/18.png</file>
+        <file>image/19.png</file>
+        <file>image/green_background.bmp</file>
+    </qresource>
+</RCC>
